@@ -1,0 +1,295 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "D:/Coming clean/Assets/Tiled/stuff/Rules/autorule.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128,
+                "y": -0.5
+            }
+        },
+        "D:/Coming clean/Assets/Tiled/stuff/firs1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -312,
+                "y": 372
+            }
+        },
+        "D:/Coming clean/Assets/Tiled/stuff/put.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 0,
+                "y": 383.33333333333337
+            }
+        },
+        "D:/Coming clean/Assets/Tiled/stuff/sasa.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -932,
+                "y": 601
+            }
+        },
+        "D:/Coming clean/Assets/Tiled/stuff/stuff/tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/Coming clean/Assets/Tiled/stuff/tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "D:/Coming clean/Assets/Tiled/stuff/untitled.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 0,
+                "y": 384.33333333333326
+            }
+        },
+        "D:/Coming clean/Assets/Tiled/til.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Cute/Assets/Tiled/Rules/autotilerules.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160,
+                "y": 120.0909090909091
+            }
+        },
+        "D:/Cute/Assets/Tiled/bug/tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Cute/Assets/Tiled/firstmap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 160,
+                "y": 119.66666666666664
+            }
+        },
+        "D:/Cute/Assets/Tiled/level1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128,
+                "y": 127.66666666666664
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/Rules/autotilerules.tmx": {
+            "scale": 1.1615234374999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.2798049436691,
+                "y": 0
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/Rules/autotiles.tmx": {
+            "scale": 3.376953125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.07403123192597,
+                "y": -128.07403123192597
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/Rules/tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/fist.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640,
+                "y": -386
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/sa.tmx": {
+            "scale": 1.5338541666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.1086587436333,
+                "y": -0.3259762308998404
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/Rules/autorule.tmx": {
+            "scale": 2,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": -26.5,
+                "y": 155.5
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/Rules/autotiles.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 128.16666666666666,
+                "y": -128.16666666666666
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/Rules/tiles_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/Rules/tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/firs1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -380,
+                "y": 650.6666666666665
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/fist.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 124,
+                "y": -540
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/sa.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -16,
+                "y": 40
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/tiles_.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/stuff/tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/MakingGames/Project Z/Assets/Tiled/tiles_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/MakingGames/Project Z/Assets/Tiles/Rule/autotiles.tmx": {
+            "scale": 3.376953125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 127.925968768074,
+                "y": -127.92596876807403
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiles/autotiles.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 298,
+                "y": -79
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiles/tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/MakingGames/Project Z/Assets/Tiling/Rules/autotiles.tmx": {
+            "scale": 3.376953125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 127.925968768074,
+                "y": -128.22209369577791
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiling/fist.tmx": {
+            "scale": 0.6573660714285714,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.4346349745332,
+                "y": -216.01358234295412
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiling/sa.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 56.666666666666686,
+                "y": 14.666666666666686
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/Tiling/tiles_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/MakingGames/Project Z/Assets/tile/Rule/autotiles.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 120.33333333333334,
+                "y": -148
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/tile/first.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 85,
+                "y": 167
+            }
+        },
+        "D:/MakingGames/Project Z/Assets/tile/tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "autotilerules.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128,
+                "y": -0.6666666666666288
+            }
+        }
+    },
+    "last.exportedFilePath": "D:/MakingGames/Bum/BumBum",
+    "last.externalTilesetPath": "D:/MakingGames/Project Z/Assets/Tiled/stuff",
+    "last.imagePath": "D:/MakingGames/Project Z/Assets",
+    "map.fixedSize": false,
+    "map.lastUsedExportFilter": "Godot Tilemap format (*.tscn)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "autotilerules.tiled-project",
+    "recentFiles": [
+        "D:/MakingGames/Project Z/Assets/tile/first.tmx",
+        "D:/MakingGames/Project Z/Assets/tile/Rule/autotiles.tmx",
+        "D:/MakingGames/Project Z/Assets/tile/tileset.tsx",
+        "D:/Coming clean/Assets/Tiled/til.tsx",
+        "D:/MakingGames/Project Z/Assets/Tiles/autotiles.tmx",
+        "D:/MakingGames/Project Z/Assets/Tiles/tileset.tsx",
+        "D:/MakingGames/Project Z/Assets/Tiles/Rule/autotiles.tmx",
+        "D:/MakingGames/Project Z/Assets/Tiling/Rules/autotiles.tmx",
+        "D:/MakingGames/Project Z/Assets/Tiling/fist.tmx",
+        "D:/MakingGames/Project Z/Assets/Tiling/sa.tmx",
+        "D:/MakingGames/Project Z/Assets/Tiling/tiles_.tsx",
+        "D:/MakingGames/Project Z/Assets/Tiled/tiles_.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
